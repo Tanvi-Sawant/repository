@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-28T12:40:02Z" name="Suite" finished-at="2022-09-28T12:42:30Z" duration-ms="147699">
+    <groups>
+    </groups>
+    <test started-at="2022-09-28T12:40:02Z" name="Test" finished-at="2022-09-28T12:42:30Z" duration-ms="147699">
+      <class name="com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:10:02Z" name="setUp" finished-at="2022-09-28T18:10:36Z" duration-ms="33770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Verify_Register_New_User()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:10:36Z" name="test_Verify_Register_New_User" finished-at="2022-09-28T18:10:41Z" duration-ms="4996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Verify_Register_New_User -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:10:41Z" name="tearDown" finished-at="2022-09-28T18:10:41Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:10:41Z" name="setUp" finished-at="2022-09-28T18:11:19Z" duration-ms="38143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Verify_Register_Existing_User()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:11:19Z" name="test_Verify_Register_Existing_User" finished-at="2022-09-28T18:11:22Z" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Verify_Register_Existing_User -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:11:22Z" name="tearDown" finished-at="2022-09-28T18:11:22Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:11:22Z" name="setUp" finished-at="2022-09-28T18:11:54Z" duration-ms="31876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Verify_Login_Valid_Credentials()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:11:54Z" name="test_Verify_Login_Valid_Credentials" finished-at="2022-09-28T18:11:58Z" duration-ms="4023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Verify_Login_Valid_Credentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:11:58Z" name="tearDown" finished-at="2022-09-28T18:11:58Z" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:11:58Z" name="setUp" finished-at="2022-09-28T18:12:26Z" duration-ms="28102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Verify_Login_Invalid_Credentials()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:12:26Z" name="test_Verify_Login_Invalid_Credentials" finished-at="2022-09-28T18:12:29Z" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Verify_Login_Invalid_Credentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin@5ab956d7]" started-at="2022-09-28T18:12:29Z" name="tearDown" finished-at="2022-09-28T18:12:30Z" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AsianCloudUserMgmt.AsianCloudUser.TestRegisterAndLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

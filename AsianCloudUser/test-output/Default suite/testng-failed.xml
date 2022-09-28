@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="com.AsianCloudUserMgmt.AsianCloudUser.TestRegister">
+        <methods>
+          <include name="test_Verify_Register_New_User"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.AsianCloudUserMgmt.AsianCloudUser.TestRegister -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
